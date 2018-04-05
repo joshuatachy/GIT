@@ -30,23 +30,7 @@ get_header(); ?>
 			-->
 
 		<div class="three-panes">
-			<div class="row">
-				<div class="col-md-4">
-					<h4>We are Kaleidoskope</h4>
-					<p>At Kaleidoskope, we design and deliver customised learning and development initiatives for leaders of industry. We understand that organisation cultures, as well as the challenges and aspirations of the individual professional are multifaceted, ever-changing and unique.</p>
-					<p class="cta"><a href="http://www.kaleidoskope.co/about-kaleidoskope/">READ more</a></p>
-				</div>
-				<div class="col-md-4">
-					<h4>The Kaleidoskope-7</h4>
-					<p>Upon assessing the challenges you’re tackling, and appreciating the outcome you envision, a bespoke programme is designed for you based on The Kaleidoskope-7. The Kaleidoskope-7 identifies the 7 key challenge areas most commonly faced by top-level executives.</p>
-					<p class="cta"><a href="http://www.kaleidoskope.co/what-we-can-do-for-you/the-kaleidoskope-7/">READ more</a></p>
-				</div>
-				<div class="col-md-4">
-					<h4>Our Perspective</h4>
-					<p>We, at Kaleidoskope, believe that every client is unique and one size should not fit all. We believe in letting you mix it up with customised programmes that help you and your team build skills that meet your objectives, and ultimately propel your organisation to new heights.</p>
-					<p class="cta"><a href="http://www.kaleidoskope.co/what-we-can-do-for-you/">READ more</a></p>
-				</div>
-			</div>
+
 		</div>
 	</div>
 
